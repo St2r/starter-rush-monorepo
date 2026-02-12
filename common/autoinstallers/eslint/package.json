@@ -1,0 +1,9 @@
+{
+  "name": "eslint",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@antfu/eslint-config": "~7.4.0",
+    "eslint": "~10.0.0"
+  }
+}
